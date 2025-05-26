@@ -1,4 +1,4 @@
-<h2>Olá sou desenvolvedor Full Stack Python em formação pela EBAC, graduado em Produção multimídia.</h2>
+<h2>Olá, sou Fernando desenvolvedor Full Stack Python em formação pela EBAC, graduado em Produção multimídia.</h2>
 <p>Profissional com perfil de detalhista e criativo. Especializado em programação orientada a objetos, automatização de processos, integração de APIs, desenvolvimento web 💻</p>
 <div align="center">
   <a href="https://github.com/FernandoSilvaDev">
