@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá sou desenvolvedor Full Stack Python em formação pela EBAC, graduado em Produção multimídia. Profissional com perfil de detalhista e criativo. Especializado em programação orientada a objetos, automatização de processos, integração de APIs, desenvolvimento web 💻
+##
 <div align="center">
   <a href="https://github.com/FernandoSilvaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoSilvaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
